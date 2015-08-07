@@ -1,3 +1,6 @@
+Notes - Not understanding why the tests work individually but if i have them all active and the problems as well, they all fail. Planning to meet with michael about this either tomorrow or sunday.
+
+
 Jasmine Testing Review
 Steps
 
